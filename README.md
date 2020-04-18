@@ -1,6 +1,6 @@
 <h1>Any Recipe You Want</h1>
 
-<p>Are you at home because of corona virus and you want to cook something different ? Try this dude!</p>
+<p>Are you at home because of corona virus and you want to cook something different ? Try it!</p>
 <p>Search what do you want to cook and have 10 recipe!</p><br/>
 
 <h3>Topics</h3>
