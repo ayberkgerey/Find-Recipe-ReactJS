@@ -10,3 +10,12 @@
 <li>Edamam Recipe Api</li>
 
 </ul>
+
+<h3>Screenshots</h3>
+
+<div class="row">
+  <div class="column">
+<img src = "Screenshots/ss1.png" width="500" height="500"/>
+<img src = "Screenshots/ss2.png" width="500" height="500"/>
+<img src = "Screenshots/ss3.png" width="500" height="500"/>
+</div>
