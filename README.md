@@ -6,7 +6,7 @@
 <h3>Topics</h3>
 <ul>
 <li>React JS</li>
-<li>Edamam Recipe Api</li>
+<li a href="https://www.edamam.com/"> Edamam Recipe Api </li>
 </ul><br/>
 
 <h3>Screenshots</h3>
