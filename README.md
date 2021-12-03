@@ -16,6 +16,3 @@
 <img src = "Screenshots/ss1.png" />
 <img src = "Screenshots/ss3.png" />
 </div>
-  
-  
-  <p>Maden by Ayberk Gerey</p>
